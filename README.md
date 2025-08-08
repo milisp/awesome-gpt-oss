@@ -2,24 +2,27 @@
 
 > A curated list of awesome GPT-OSS resources, tools, tutorials, and projects. OpenAI's first fully open-source language model family since GPT-2.
 
-
 GPT-OSS represents OpenAI's return to open-source AI development with two powerful reasoning models: **gpt-oss-120b** and **gpt-oss-20b**. Released under the Apache 2.0 license, these models deliver state-of-the-art performance with configurable reasoning effort, full chain-of-thought access, and native tool use capabilities.
 
-## 📋 Contents
+## 📋 Table of Contents
 
-- [Official Resources](#official-resources)
-- [Models](#models)
-- [Inference Engines](#inference-engines)
-- [Local Deployment](#local-deployment)
-- [Cloud Deployment](#cloud-deployment)
-- [Development Tools](#development-tools)
-- [Integrations](#integrations)
-- [Fine-tuning](#fine-tuning)
-- [Applications](#applications)
-- [Tutorials](#tutorials)
-- [Research](#research)
-- [Safety](#safety)
-- [Community](#community)
+- [🏢 Official Resources](#-official-resources)
+- [🤖 Models](#-models)
+- [🚀 Inference Engines](#-inference-engines)
+- [💻 Local Deployment](#-local-deployment)
+- [☁️ Cloud Deployment](#-cloud-deployment)
+- [🛠️ Development Tools](#-development-tools)
+- [🔗 Integrations](#-integrations)
+- [🎯 Fine-tuning](#-fine-tuning)
+- [📱 Applications](#-applications)
+- [📚 Tutorials](#-tutorials)
+- [🔬 Research](#-research)
+- [🛡️ Safety](#️-safety)
+- [👥 Community](#-community)
+- [📊 Comparison with Other Models](#-comparison-with-other-models)
+- [🎉 Contributing](#-contributing)
+- [📄 License](#-license)
+- [⭐ Star History](#-star-history)
 
 ## 🏢 Official Resources
 
@@ -76,6 +79,7 @@ GPT-OSS represents OpenAI's return to open-source AI development with two powerf
 ## 💻 Local Deployment
 
 ### Consumer Hardware
+- [plux](https://github.com/milisp/plux) — The fastest way to connect your files to AI.  Think file explorer + “add to AI” button — discover, send, and manage your files with one click.
 - [LM Studio](https://lmstudio.ai/) - User-friendly desktop application
 - [Jan](https://jan.ai/) - Open-source ChatGPT alternative
 - [Msty](https://msty.app/) - Multi-platform LLM client
@@ -121,6 +125,7 @@ GPT-OSS represents OpenAI's return to open-source AI development with two powerf
 ## 🔗 Integrations
 
 ### Chat Interfaces
+- [plux](https://github.com/milisp/plux) — The fastest way to connect your files to AI.  Think file explorer + “add to AI” button — discover, send, and manage your files with one click.
 - [Open WebUI](https://github.com/open-webui/open-webui) - Feature-rich web interface
 - [ChatGPT-Next-Web](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web) - Self-hosted ChatGPT UI
 - [LibreChat](https://github.com/danny-avila/LibreChat) - Multi-model chat platform
