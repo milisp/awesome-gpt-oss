@@ -212,6 +212,9 @@ GPT-OSS represents OpenAI's return to open-source AI development with two powerf
 - [Comparative Benchmarks](https://huggingface.co/blog/welcome-openai-gpt-oss) - Performance vs other models
 - [Enterprise Adoption Study](https://cobusgreyling.medium.com/openai-gpt-oss-8e5d1b755e79) - Market analysis
 
+### Educational Implementations
+- [ProjektJoe GPT-OSS from Scratch](https://github.com/ProjektJoe/gpt-oss-from-scratch) - Educational, from-scratch Python implementation of the GPT-OSS architecture.
+
 ## 🛡️ Safety
 
 ### Security Features
